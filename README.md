@@ -62,6 +62,10 @@ Ingreso por categoría: gráfica de barras
 
 Top productos / clientes: CSV detallado
 
+<img width="800" height="400" alt="revenue_by_category" src="https://github.com/user-attachments/assets/9a27d210-443d-4067-99b5-2813ae947771" />
+
+<img width="800" height="400" alt="revenue_by_month" src="https://github.com/user-attachments/assets/7ca5b9fd-9179-43c8-80ad-0eb1bed8cf07" />
+
 
 -Tecnologías usadas
 

@@ -1,0 +1,36 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Reportes y salidas generadas
+reports/*.png
+reports/*.md
+
+# Datos procesados
+data/processed/*
+!data/processed/.gitkeep
+.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
